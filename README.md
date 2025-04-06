@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 👯 I’m looking to collaborate on **Next.js | React Projects**
+- 👯 I’m looking to collaborate on **React.js | Next.js | Node.js **
 
 ---
 
