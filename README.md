@@ -8,9 +8,9 @@
 
 - ⚙️ System Analysis  
 - 🛠️ Software Design  
-- 💻 Software Engineering  
+- 💻 Software Engineering 
+- 🧮 Data Structures & Algorithms
 - ⌨️ Speed Typing (60 WPM)  
-- 🧮 Data Structures & Algorithms  
 
 ---
 
