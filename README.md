@@ -10,6 +10,8 @@
 - 🛠️ Software Design  
 - 💻 Software Engineering  
 - ⌨️ Speed Typing (60 WPM)
+- 🧮 Data Structures & Algorithms  
+
 
 ---
 
