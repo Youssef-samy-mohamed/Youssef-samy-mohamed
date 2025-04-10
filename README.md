@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 👯 I’m looking to collaborate on   React.js | Next.js | Node.js  
 
