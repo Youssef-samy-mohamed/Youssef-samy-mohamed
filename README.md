@@ -6,10 +6,9 @@
 ### 🧠 Professional Skills
 
 - ⚙️ System Analysis  
-- 🛠️ Software Design  
 - 💻 Software Engineering 
 - 🧮 Data Structures & Algorithms
-- ⌨️ Speed Typing (70 WPM)  
+- ⌨️ Speed Typing (80 WPM)  
 
 ---
 
